@@ -196,3 +196,9 @@ cython_debug/
 /SeminarWork/SW1/cv_seminar_1/
 /SeminarWork/SW2/cv_seminar_2/
 /SeminarWork/SW3/cv_seminar_3/
+/runs/
+/AnotherExample/card/
+/AnotherExample/dataset/
+/AnotherExample/yolo11n.pt
+/AnotherExample/yolo12n.pt
+/AnotherExample/output/
